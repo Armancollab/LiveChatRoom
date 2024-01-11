@@ -1,4 +1,5 @@
 # LiveChatRoom
+
 This is a real-time chat application built using Flask and SocketIO. The application allows users to create chat rooms, join existing ones, send messages, and track the number of members in each room.
 
 ## Features
@@ -9,20 +10,28 @@ This is a real-time chat application built using Flask and SocketIO. The applica
 - **Member Tracking:** The application dynamically tracks the number of members in each room.
 - **User-friendly Interface:** A simple and minimal user interface for a seamless chat experience.
 
+## ScreenShots
+
+![Screenshot 1](screenshots/menu.png)
+![Screenshot 2](screenshots/room.png)
+
 ## Getting Started
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/Armancollab/LiveChatRoom.git
    cd LiveChatRoom
    ```
 
 2. **Install Dependencies:**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Run the Application:**
+
    ```bash
    python main.py
    ```
