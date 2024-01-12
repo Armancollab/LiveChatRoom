@@ -130,6 +130,10 @@
     word-break: break-all;
 }
 
+.text span p {
+    margin: 0;
+}
+
 .message-cnt {
     width: 60%;
 }
