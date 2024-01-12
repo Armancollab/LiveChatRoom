@@ -49,7 +49,7 @@ Now, open your web browser and go to http://localhost:5000 to start chatting!
 
 ## Author
 
-* **Mohammad Arman** - *Initial work* - [YourUsername](https://github.com/Armancollab)
+* **Mohammad Arman** - *Initial work* - [Armancollab](https://github.com/Armancollab)
 
 ## License
 
