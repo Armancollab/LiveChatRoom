@@ -127,7 +127,7 @@
     display: inline-block;
     margin-bottom: 5px;
     text-wrap: wrap;
-    word-break: break-all;
+    word-break: break-word;
 }
 
 .text span p {
