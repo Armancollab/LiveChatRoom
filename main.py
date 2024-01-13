@@ -20,7 +20,7 @@ def generate_unique_code(length):
 
 app = Flask(__name__)
 # Change this to something more secure in production
-app.config["SECRET_KEY"] = 'secret!'
+app.config["SECRET_KEY"] = '3fa3cf7f8d88a8e2dbd8dd57350d583536e447a24b0a8f21'
 socketio = SocketIO(app)
 
 
@@ -112,4 +112,4 @@ def disconnect():
 
 
 if __name__ == "__main__":
-    socketio.run(app, debug=True)
+    socketio.run(app, debug=False)
