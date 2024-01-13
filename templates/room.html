@@ -37,8 +37,9 @@
     const createMessage = (name, msg) => {
         const content = `
         <div class="text"> 
-            <span>
-                 <strong> ${name}</strong>: ${msg}
+            <span class="message-cnt">
+                 <strong> ${name}</strong>
+                 <p>${msg}</p>
             </span> 
             <span class="muted">
                 ${new Date().toLocaleString()}
