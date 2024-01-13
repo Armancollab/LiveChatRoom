@@ -12,8 +12,8 @@ This is a real-time chat application built using Flask and SocketIO. The applica
 
 ## ScreenShots
 
-![Screenshot 1](screenshots/menu.png)
-![Screenshot 2](screenshots/room.png)
+![Screenshot 1](screenshots/new-menu.png)
+![Screenshot 2](screenshots/new-room.png)
 
 ## Getting Started
 
